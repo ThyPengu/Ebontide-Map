@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<SceneGraph version="1">
+  <AspectRatio>1.87934942436982</AspectRatio>
+  <BackgroundColor>000000</BackgroundColor>
+  <SceneNode>
+    <FileName>G:\Documents\Expression\Deep Zoom Composer Projects\EbontideZoomable\Source Images\ebontidev6_01.jpg</FileName>
+    <x>0.0106663227640568</x>
+    <y>0</y>
+    <Width>0.212839610778672</Width>
+    <Height>0.249999999999996</Height>
+    <ZOrder>1</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>G:\Documents\Expression\Deep Zoom Composer Projects\EbontideZoomable\Source Images\ebontidev6_02.jpg</FileName>
+    <x>0.223505933542736</x>
+    <y>0</y>
+    <Width>0.21283961077867</Width>
+    <Height>0.249999999999995</Height>
+    <ZOrder>2</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>G:\Documents\Expression\Deep Zoom Composer Projects\EbontideZoomable\Source Images\ebontidev6_03.jpg</FileName>
+    <x>0.436345544321409</x>
+    <y>0</y>
+    <Width>0.212839610778671</Width>
+    <Height>0.249999999999995</Height>
+    <ZOrder>3</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>G:\Documents\Expression\Deep Zoom Composer Projects\EbontideZoomable\Source Images\ebontidev6_04.jpg</FileName>
+    <x>0.649185155100085</x>
+    <y>0</y>
+    <Width>0.212839610778671</Width>
+    <Height>0.249999999999995</Height>
+    <ZOrder>4</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>G:\Documents\Expression\Deep Zoom Composer Projects\EbontideZoomable\Source Images\ebontidev6_05.jpg</FileName>
+    <x>0.0106663227640568</x>
+    <y>0.249999999999995</y>
+    <Width>0.212839610778675</Width>
+    <Height>0.25</Height>
+    <ZOrder>5</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>G:\Documents\Expression\Deep Zoom Composer Projects\EbontideZoomable\Source Images\ebontidev6_06.jpg</FileName>
+    <x>0.223505933542736</x>
+    <y>0.249999999999995</y>
+    <Width>0.212839610778672</Width>
+    <Height>0.249999999999996</Height>
+    <ZOrder>6</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>G:\Documents\Expression\Deep Zoom Composer Projects\EbontideZoomable\Source Images\ebontidev6_07.jpg</FileName>
+    <x>0.436345544321409</x>
+    <y>0.249999999999995</y>
+    <Width>0.212839610778675</Width>
+    <Height>0.25</Height>
+    <ZOrder>7</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>G:\Documents\Expression\Deep Zoom Composer Projects\EbontideZoomable\Source Images\ebontidev6_08.jpg</FileName>
+    <x>0.649185155100085</x>
+    <y>0.249999999999995</y>
+    <Width>0.212839610778675</Width>
+    <Height>0.25</Height>
+    <ZOrder>8</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>G:\Documents\Expression\Deep Zoom Composer Projects\EbontideZoomable\Source Images\ebontidev6_09.jpg</FileName>
+    <x>0.0106663227640568</x>
+    <y>0.499999999999994</y>
+    <Width>0.212839610778677</Width>
+    <Height>0.250000000000003</Height>
+    <ZOrder>9</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>G:\Documents\Expression\Deep Zoom Composer Projects\EbontideZoomable\Source Images\ebontidev6_10.jpg</FileName>
+    <x>0.223505933542736</x>
+    <y>0.499999999999994</y>
+    <Width>0.212839610778672</Width>
+    <Height>0.249999999999996</Height>
+    <ZOrder>10</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>G:\Documents\Expression\Deep Zoom Composer Projects\EbontideZoomable\Source Images\ebontidev6_11.jpg</FileName>
+    <x>0.436345544321409</x>
+    <y>0.499999999999994</y>
+    <Width>0.212839610778677</Width>
+    <Height>0.250000000000003</Height>
+    <ZOrder>11</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>G:\Documents\Expression\Deep Zoom Composer Projects\EbontideZoomable\Source Images\ebontidev6_12.jpg</FileName>
+    <x>0.649185155100085</x>
+    <y>0.499999999999994</y>
+    <Width>0.212839610778677</Width>
+    <Height>0.250000000000003</Height>
+    <ZOrder>12</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>G:\Documents\Expression\Deep Zoom Composer Projects\EbontideZoomable\Source Images\ebontidev6_13.jpg</FileName>
+    <x>0.0106663227640568</x>
+    <y>0.749999999999997</y>
+    <Width>0.212839610778677</Width>
+    <Height>0.250000000000003</Height>
+    <ZOrder>13</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>G:\Documents\Expression\Deep Zoom Composer Projects\EbontideZoomable\Source Images\ebontidev6_14.jpg</FileName>
+    <x>0.223505933542736</x>
+    <y>0.749999999999997</y>
+    <Width>0.212839610778672</Width>
+    <Height>0.249999999999996</Height>
+    <ZOrder>14</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>G:\Documents\Expression\Deep Zoom Composer Projects\EbontideZoomable\Source Images\ebontidev6_15.jpg</FileName>
+    <x>0.436345544321409</x>
+    <y>0.749999999999997</y>
+    <Width>0.212839610778677</Width>
+    <Height>0.250000000000003</Height>
+    <ZOrder>15</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>G:\Documents\Expression\Deep Zoom Composer Projects\EbontideZoomable\Source Images\ebontidev6_16.jpg</FileName>
+    <x>0.649185155100085</x>
+    <y>0.749999999999997</y>
+    <Width>0.212839610778677</Width>
+    <Height>0.250000000000003</Height>
+    <ZOrder>16</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>G:\Documents\Expression\Deep Zoom Composer Projects\EbontideZoomable\Source Images\ebontidev6_17.jpg</FileName>
+    <x>0.848270452141404</x>
+    <y>0.422580363362123</y>
+    <Width>0.151729547858596</Width>
+    <Height>0.399999999999998</Height>
+    <ZOrder>17</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>G:\Documents\Expression\Deep Zoom Composer Projects\EbontideZoomable\Source Images\ebontidev6_19.jpg</FileName>
+    <x>0</x>
+    <y>0.809655914429855</y>
+    <Width>0.0788364536793221</Width>
+    <Height>0.137321714304904</Height>
+    <ZOrder>18</ZOrder>
+  </SceneNode>
+</SceneGraph>
